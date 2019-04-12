@@ -18,5 +18,3 @@ The course is broken into three smaller sub-courses. The first course will cover
 
 We'll begin our foray into networking by reviewing the history of the internet and its design principles. Networking today is an eclectic mix of theory and practice in large part because the early internet architects set out with clear goals and allowed flexibility in achieving them. With all that flexibility, does that mean we'll see the rollout of IPv6 soon? Only in your dreams.
 
-
-[TOC]
