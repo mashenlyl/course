@@ -1,3 +1,6 @@
+* [1.Introdution](#1.Introdution)
+* [2.Architecture and Principles](#2.Architecture and Principles)
+
 ## 1.Introdution
 
 Welcome to networking. I'm Nick and I'll be your teacher in this course. And I'm Josh. Nick and I have prepared a set of fun projects for you to tackle. We have an awesome coursed prepared for you. We'll be covering advanced concepts in networking. Such as software defined networking, data center networking and content distribution. You'll complete projects using a state of the art network emulator called mini-net to understand and explore these advanced concepts. Leading up to a final project replicating actual networking research.
