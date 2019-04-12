@@ -1,6 +1,5 @@
-* [1.Introdution](#1.Introdution)
-
-* [2.Architecture and Principles](#2.Architecture and Principles)
+* [Introdution](#1.Introdution)
+* [Architecture and Principles](#2.Architecture and Principles)
 
 ## 1.Introdution
 
